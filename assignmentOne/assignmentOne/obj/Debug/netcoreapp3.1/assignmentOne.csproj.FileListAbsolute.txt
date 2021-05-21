@@ -1,0 +1,13 @@
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\bin\Debug\netcoreapp3.1\assignmentOne.exe
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\bin\Debug\netcoreapp3.1\assignmentOne.deps.json
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\bin\Debug\netcoreapp3.1\assignmentOne.runtimeconfig.json
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\bin\Debug\netcoreapp3.1\assignmentOne.runtimeconfig.dev.json
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\bin\Debug\netcoreapp3.1\assignmentOne.dll
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\bin\Debug\netcoreapp3.1\assignmentOne.pdb
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.csprojAssemblyReference.cache
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.AssemblyInfoInputs.cache
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.AssemblyInfo.cs
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.dll
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.pdb
+C:\Users\jamie\OneDrive\My Documents\University\Year Three\Object Orientated Methods\assignmentOne\assignmentOne\obj\Debug\netcoreapp3.1\assignmentOne.genruntimeconfig.cache
